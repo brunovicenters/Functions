@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+}
+
+p {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
